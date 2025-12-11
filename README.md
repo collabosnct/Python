@@ -15,3 +15,5 @@ matplotlibの基礎
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/三角関数.ipynb)
 総和と総乗
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/総和と総乗.ipynb)
+乱数
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/乱数.ipynb)
