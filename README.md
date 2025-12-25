@@ -35,3 +35,5 @@ LaTexの基礎
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/行列式と逆行列.ipynb)
 線形変換
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/線形変換.ipynb)
+固有値と固有ベクトル
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/固有値と固有ベクトル.ipynb)
