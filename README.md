@@ -23,3 +23,5 @@ LaTexの基礎
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/LaTexの基礎.ipynb)
 絶対値
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/絶対値.ipynb)
+スカラー、ベクトル、行列、テンソル
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/スカラー、ベクトル、行列、テンソル.ipynb)
