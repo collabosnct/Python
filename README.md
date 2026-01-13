@@ -55,3 +55,6 @@ LaTexの基礎
 
 固有値と固有ベクトル
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/固有値と固有ベクトル.ipynb)
+
+単回帰分析をPythonで実装せよ
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/単回帰分析をPythonで実装せよ.ipynb)
