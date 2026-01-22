@@ -58,3 +58,6 @@ LaTexの基礎
 
 単回帰分析をPythonで実装せよ
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/単回帰分析をPythonで実装せよ.ipynb)
+
+勾配降下法でAIを「学習」させよう
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/勾配降下法でAIを「学習」させよう.ipynb)
