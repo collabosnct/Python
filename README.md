@@ -56,8 +56,8 @@ LaTexの基礎
 固有値と固有ベクトル
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/固有値と固有ベクトル.ipynb)
 
-第2回実習課題:単回帰分析をPythonで実装せよ
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/第2回実習課題:単回帰分析をPythonで実装せよ.ipynb)
+第２回実習課題_単回帰分析をPythonで実装せよ
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/第２回実習課題_単回帰分析をPythonで実装せよ.ipynb)
 
 勾配降下法でAIを「学習」させよう
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/勾配降下法でAIを「学習」させよう.ipynb)
