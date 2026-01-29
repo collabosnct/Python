@@ -62,5 +62,5 @@ LaTexの基礎
 第３回実習課題_勾配降下法でAIを「学習」させよう
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/第３回実習課題_勾配降下法でAIを「学習」させよう.ipynb)
 
-第４回実習課題_勾配降下法でAIを「学習」させよう
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/第４回実習課題_勾配降下法でAIを「学習」させよう.ipynb)
+第４回実習課題_パーセプトロンで「論理」を学習せよ
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/第４回実習課題_パーセプトロンで「論理」を学習せよ.ipynb)
