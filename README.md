@@ -64,3 +64,6 @@ LaTexの基礎
 
 第４回実習課題_パーセプトロンで「論理」を学習せよ
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/第４回実習課題_パーセプトロンで「論理」を学習せよ.ipynb)
+
+第５回実習課題_多層パーセプトロンで「XOR」の壁を突破せよ
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/第５回実習課題_多層パーセプトロンで「XOR」の壁を突破せよ.ipynb)
