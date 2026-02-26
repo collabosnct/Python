@@ -73,3 +73,7 @@ LaTexの基礎
 
 第６回実習課題_誤差逆伝播法をマスターせよ
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/第６回実習課題_誤差逆伝播法をマスターせよ.ipynb)
+
+解答例_第１回実習課題_画像は「数字」でできている
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/解答例_第１回実習課題_画像は「数字」でできている.ipynb)
+
