@@ -88,3 +88,6 @@ LaTexの基礎
 
 解答例_第５回実習課題_多層パーセプトロンで「XOR」の壁を突破せよ
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/解答例_第５回実習課題_多層パーセプトロンで「XOR」の壁を突破せよ.ipynb)
+
+解答例_第６回実習課題_誤差逆伝播法をマスターせよ
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/解答例_第６回実習課題_誤差逆伝播法をマスターせよ.ipynb)
