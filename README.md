@@ -77,3 +77,5 @@ LaTexの基礎
 解答例_第１回実習課題_画像は「数字」でできている
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/解答例_第１回実習課題_画像は「数字」でできている.ipynb)
 
+解答例_第２回実習課題_単回帰分析をPythonで実装せよ
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/解答例_第２回実習課題_単回帰分析をPythonで実装せよ.ipynb)
