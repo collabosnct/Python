@@ -79,3 +79,6 @@ LaTexの基礎
 
 解答例_第２回実習課題_単回帰分析をPythonで実装せよ
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/解答例_第２回実習課題_単回帰分析をPythonで実装せよ.ipynb)
+
+解答例_第３回実習課題_勾配降下法でAIを「学習」させよう
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/collabosnct/Python/blob/main/解答例_第３回実習課題_勾配降下法でAIを「学習」させよう.ipynb)
